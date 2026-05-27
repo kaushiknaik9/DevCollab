@@ -1,0 +1,29 @@
+{
+  "name": "devcollab",
+  "version": "1.0.0",
+  "description": "This is Developers Collaboration tool consider like Jira + Github this will contain everything of Mern Backend as v1 and will take this forward by Frontend Dev or me in Future",
+  "keywords": [
+    "Mern",
+    "Complete-Backend",
+    "Mastering-Backend"
+  ],
+  "homepage": "https://github.com/kaushiknaik9/DevCollab#readme",
+  "bugs": {
+    "url": "https://github.com/kaushiknaik9/DevCollab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushiknaik9/DevCollab.git"
+  },
+  "license": "ISC",
+  "author": "Kaushik Naik",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
